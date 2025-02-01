@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-[![Linkedin](https://img.shields.io/badge/-jonahbalshai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonahbalshai/)](https://www.linkedin.com/in/jonahbalshai/) [![Gmail Badge](https://img.shields.io/badge/-jonahbalshai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonahbalshai@gmail.com)](mailto:jonahbalshai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-jonahbalshai-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jonahbalshai/) [![Gmail Badge](https://img.shields.io/badge/-jonahbalshai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonahbalshai@gmail.com)](mailto:jonahbalshai@gmail.com)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonahBalshai&show_icons=true&theme=dark)
 <!--
 **JonahBalshai/JonahBalshai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
