@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-jonahbalshai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonahbalshai/)](https://www.linkedin.com/in/jonahbalshai/) 
+<!--[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)-->
+
 <!--
 **JonahBalshai/JonahBalshai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
