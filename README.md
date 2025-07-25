@@ -5,7 +5,7 @@
 About me:\
 🎓 Currently doing a M.Sc. in Computer Science at the Technical University of Berlin (TUB).\
 🔎 Interested in anything AI/ML related.\
-🔭 Working at the Distributed Artificial Intelligence Laboratory (DAI-Lab) at the TUB.\
+🔭 Working at Siemens in AI/ML solutions in industrial applications.\
 💬 Always open to conversations about cool AI/ML projects and music.\
 \
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonahBalshai&show_icons=true&theme=dark)
